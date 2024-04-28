@@ -15,6 +15,9 @@ Living in a world where weather conditions can greatly impact our daily lives, I
 - **Customization:** Users can customize the app to display weather data for their desired location, enabling personalized weather updates.
 - **Minimalist Design:** WeatherApp embraces a minimalist design philosophy, prioritizing clarity and ease of use.
 
+  ## Looks
+  This is how it will show the result.
+
 ## Technologies Used
 
 - Python
