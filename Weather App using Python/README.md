@@ -16,7 +16,7 @@ Living in a world where weather conditions can greatly impact our daily lives, I
 - **Minimalist Design:** WeatherApp embraces a minimalist design philosophy, prioritizing clarity and ease of use.
 
   ## Looks
-  This is how it will show the result.
+  This is how it will show the result.[here](https://github.com/HarshalUgale007/Mini-Projects/blob/main/Weather%20App%20using%20Python/WeatherApp.png)
 
 ## Technologies Used
 
